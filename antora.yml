@@ -1,0 +1,6 @@
+name: repeater-a
+title: Repeater A
+version: ~
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
